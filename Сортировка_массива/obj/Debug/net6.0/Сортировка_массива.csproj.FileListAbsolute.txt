@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.AssemblyInfoInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.AssemblyInfo.cs
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\bin\Debug\net6.0\Сортировка_массива.exe
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\bin\Debug\net6.0\Сортировка_массива.deps.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\bin\Debug\net6.0\Сортировка_массива.runtimeconfig.json
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\bin\Debug\net6.0\Сортировка_массива.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\bin\Debug\net6.0\Сортировка_массива.pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\refint\Сортировка_массива.dll
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.pdb
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\Сортировка_массива.genruntimeconfig.cache
+C:\Users\User\Dropbox\GeekBrains\03_Знакомство с языками программирования (C#)\SEMINAR7\Сортировка_массива\obj\Debug\net6.0\ref\Сортировка_массива.dll
